@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072075986272",
+    "project_id": "xchat-ffd8a",
+    "storage_bucket": "xchat-ffd8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072075986272:android:f9bb1877e628b95774fa05",
+        "android_client_info": {
+          "package_name": "com.example.x_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072075986272-o2mk6s60k6pma9ckr0tjf0rmlmoks58b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACT32-diNijrcg90wkYCQ0RGzCLXFRiok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072075986272-e8o9p2u78ku8nqggtkr7fk6npdklt7o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
